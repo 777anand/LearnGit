@@ -1,3 +1,3 @@
 # LearnGit
 
-This is going to be a small-playable project for leanring basic git commands.
+This is going to be a small-playable project for learning basic git commands.
